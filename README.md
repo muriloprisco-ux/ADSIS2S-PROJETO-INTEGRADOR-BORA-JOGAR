@@ -7,4 +7,4 @@
 - [Lucas César de Queiroz Mota]
 
 **Cenário Escolhido:**
-G. Sistema de reservas para uma quadra de futebol society do bairro.
+Sistema de reservas para uma quadra de futebol society do bairro.
